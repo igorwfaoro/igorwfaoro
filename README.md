@@ -1,16 +1,86 @@
-### Hi there 👋
+### Igor Wilian Faoro
 
-<!--
-**igorwfaoro/igorwfaoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗺 Curitiba - PR<br>
+💻 Software Developer<br>
+🤠 Country Music<br>
+🏞️ Outdoor<br>
 
-Here are some ideas to get you started:
+<a href="https://toikos.com.br" target="_blank">
+  <img height="16px" src="https://toikos.com.br/img/favicon.png">
+  <span>Toikos</span>
+</a>
+ | 
+<a href="https://seigas.com" target="_blank">
+  <img height="16px" src="https://seigas.com/images/logo-icon-2.png">
+  <span>Seigas</span>
+</a>
+ | 
+<a href="https://repy.net.br" target="_blank">
+  <img height="16px" src="https://repy.net.br/images/logo-icon-2.png">
+  <span>Repy</span>
+</a>
+ | 
+<a href="https://gasapp.com.br" target="_blank">
+  <img height="16px" src="https://gasapp.com.br/images/icon.svg">
+  <span>Gasapp</span>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/x--pass-igorwfaoro-blue">
+</a>
+
+<br>
+<br>
+
+<a href="mailto:igor.faoro17@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>  
+<a href="https://wa.me/+5554996726664" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>  
+<a href="https://t.me/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>  
+<a href="https://instagram.com/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>  
+<a href="https://open.spotify.com/user/12147912986?si=752e04fce616411c" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</a> 
+  
+<div style="display: inline_block"><br>
+  <i class="devicon-typescript-plain colored"></i>
+  <img align="center" alt="igor-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="igor-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="igor-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="igor-sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="igor-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="igor-ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" alt="igor-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="igor-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="igor-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="igor-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="igor-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="igor-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div> 
+
+<br>
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorwfaoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwfaoro&layout=compact&langs_count=7&theme=tokyonight "/>
+</div>
+  
+  
+  
+  
+  
+  
+  
