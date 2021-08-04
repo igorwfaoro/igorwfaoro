@@ -79,6 +79,8 @@
 <div>
   <img height="180em" width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorwfaoro&theme=dracula"/>
   <img height="180em" width="38%" src="https://github-readme-stats.vercel.app/api?username=igorwfaoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=igorwfaoro&layout=compact&theme=dracula&custom_title=Wakatime%20Stats%20(last%207%20days)"/>
 </div>
 
 ![Snake animation](https://github.com/igorwfaoro/igorwfaoro/blob/output/github-contribution-grid-snake.svg)
