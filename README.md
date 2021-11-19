@@ -14,6 +14,11 @@
   <img height="16px" src="https://seigas.com/images/logo-icon-2.png">
   <span>Seigas</span>
 </a>
+ |
+<a href="https://medintime.life" target="_blank">
+  <img height="16px" src="https://medintime.life/images/logo-favicon.svg">
+  <span>Medintime</span>
+</a>
  | 
 <a href="https://repy.net.br" target="_blank">
   <img height="16px" src="https://repy.net.br/images/logo-icon-2.png">
