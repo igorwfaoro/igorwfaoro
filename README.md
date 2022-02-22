@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<a href="" target="_blank">
+<a href="https://x-pass.app/igorwfaoro" target="_blank">
   <img src="https://img.shields.io/badge/x--pass-igorwfaoro-blue">
 </a>
 
