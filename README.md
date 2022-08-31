@@ -5,31 +5,6 @@
 🤠 Country Music<br>
 🏞️ Outdoor<br>
 
-<a href="https://toikos.com.br" target="_blank">
-  <img height="16px" src="https://toikos.com.br/img/favicon.png">
-  <span>Toikos</span>
-</a>
- | 
-<a href="https://seigas.com" target="_blank">
-  <img height="16px" src="https://seigas.com/images/logo-icon-2.png">
-  <span>Seigas</span>
-</a>
- |
-<a href="https://medintime.life" target="_blank">
-  <img height="16px" src="https://medintime.life/images/logo-favicon.svg">
-  <span>Medintime</span>
-</a>
- | 
-<a href="https://repy.net.br" target="_blank">
-  <img height="16px" src="https://repy.net.br/images/logo-icon-2.png">
-  <span>Repy</span>
-</a>
- | 
-<a href="https://gasapp.com.br" target="_blank">
-  <img height="16px" src="https://gasapp.com.br/images/icon.svg">
-  <span>Gasapp</span>
-</a>
-
 <br>
 <br>
 
