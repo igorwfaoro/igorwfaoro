@@ -6,12 +6,15 @@
 🏞️ Outdoor<br>
 
 <br>
-<br>
 
 <a href="https://x-pass.app/igorwfaoro" target="_blank">
-  <img src="https://img.shields.io/badge/x--pass-igorwfaoro-blue">
+  <img src="https://img.shields.io/badge/x--pass-igorwfaoro-blue?style=flat">
+</a>
+<a href="https://www.linkedin.com/in/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/igorwfaoro-blue?logo=linkedin&style=flat">
 </a>
 
+<br>
 <br>
 
 <a href="mailto:igor.faoro17@gmail.com" target="_blank">
