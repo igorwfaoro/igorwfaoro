@@ -1,6 +1,6 @@
 ### Igor Wilian Faoro
 
-🗺 Curitiba - PR<br>
+🗺 Caxias do Sul - RS<br>
 💻 Software Developer<br>
 🤠 Country Music<br>
 🏞️ Outdoor<br>
