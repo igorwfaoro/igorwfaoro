@@ -8,6 +8,8 @@
 ## About Me
 I am a full-stack developer with experience in various technologies, including Node.js, Angular, React, .Net, and Java. With strong skills in both backend and frontend development, I have the ability to create robust and scalable solutions to meet clients' needs. I have a problem-solving mindset and am always seeking to learn new technologies and improve my skills.
 
+### https://igorwfaoro.github.io
+
 <a href="https://www.linkedin.com/in/igorwfaoro" target="_blank">
   <img src="https://img.shields.io/badge/igorwfaoro-blue?logo=linkedin&style=flat">
 </a>
