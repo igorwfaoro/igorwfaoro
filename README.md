@@ -40,9 +40,8 @@ I am a full-stack developer with experience in various technologies, including N
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorwfaoro&theme=dracula&card_width=30"/>
   </div>
 
-  <div style="display: flex; gap: 10px">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorwfaoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwfaoro&layout=compact&hide_border=true&theme=dracula"/>
+  <div style="display: flex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwfaoro&layout=compact&hide_border=true&theme=dracula"/>
   </div>
 </div>
 
