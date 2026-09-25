@@ -38,7 +38,7 @@ I'm a tech lead and full-stack developer focused on building and evolving reliab
   </div>
 
   <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwfaoro&layout=compact&hide_border=true&theme=dracula" alt="Most used languages">
+    <img src="./top-languages.svg" alt="Most used languages">
   </div>
 </div>
 
