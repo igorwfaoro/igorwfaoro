@@ -42,8 +42,6 @@ I'm a tech lead and full-stack developer focused on building and evolving reliab
   </div>
 </div>
 
-![Snake animation](https://github.com/igorwfaoro/igorwfaoro/blob/output/github-contribution-grid-snake.svg)
-
 ## Open source
 
 A few recent merged PRs in projects I've contributed to:
