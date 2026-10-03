@@ -1,9 +1,11 @@
-# [Igor Wilian Faoro](https://igorwfaoro.github.io)
+# Igor Wilian Faoro
 
 📍 Caxias do Sul - RS, Brazil<br>
 💻 Tech Lead & Full-stack Developer<br>
 🤠 Country Music<br>
-🏞️ Outdoor Adventurer
+🏞️ Outdoor Adventurer<br>
+👤 [igorwfaoro.github.io](https://igorwfaoro.github.io)<br>
+🟣 [Pristen](https://pristen.com.br)
 
 ## About Me
 I'm a tech lead and full-stack developer focused on building and evolving reliable digital products.
